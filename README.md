@@ -43,7 +43,7 @@ git add .
 git commit -m 'descrição do commit'
 
 //Vincunlando o repositorio local ao remoto
-git remote add origin URL
+git remote add origin {URL}
 
 //Check da url
 git remote -v
@@ -66,17 +66,14 @@ GIT
 git init
 
 //Clonando o Repositório da aula
-git clone {URL}
+git clone https://github.com/GuilhermeCamargo744/aula-fecaf-noite-dog-ever-match.git
 
 React Native
 //Entrando na pasata onde o projeto foi clonado
-cd /caminho/para/{nome do app}
+cd /caminho/para/aula-fecaf-noite-dog-ever-match
 
 //Instalando o NPM
 npm install
 
 //Rodando o Aplicatico
 npm run start
-
-//Entrando na Aplicação
-a
